@@ -1,0 +1,61 @@
+/*
+Mateo Shkurti
+Student ID: 991570115
+Syst10199- Web Programming
+*/
+/* 
+    Created on : Feb 5, 2020, 1:17:37 PM
+    Author     : shkur
+*/
+
+body{
+    background-color: lightblue;
+    margin-left:  150px;
+    margin-right: 150px;
+    margin-top: 50px;
+    margin-bottom: 150px;
+}
+#header{
+    
+    text-align: center;
+    font-family: arial;
+   
+    
+}
+#textbox{
+    width:  300px;
+}
+
+#in{
+     display: flex;
+    justify-content: center;
+    justify-content: space-between;
+    justify-content: space-around;
+    padding-bottom: 30px;
+    padding-top: 30px;
+}
+#b1{
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+    justify-content: space-around;
+     padding-bottom: 30px;
+}
+#b2{
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+    justify-content: space-around;
+     padding-bottom: 30px;
+}
+#t2{
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+    justify-content: space-around;
+    padding-bottom: 30px;
+    padding-top: 30px;
+    border: solid black ;
+     
+}
+
